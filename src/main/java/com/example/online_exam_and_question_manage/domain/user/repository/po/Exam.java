@@ -1,4 +1,4 @@
-package com.example.online_exam_and_question_manage.domain.repository.po;
+package com.example.online_exam_and_question_manage.domain.user.repository.po;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.example.online_exam_and_question_manage.domain.repository.po;
+package com.example.online_exam_and_question_manage.domain.user.repository.po;
 
 import lombok.Data;
 
@@ -7,7 +7,6 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-/** @Description @Author zhulei @Date 2022-04-11 */
 @Data
 @Entity
 @Table(name = "role")
